@@ -48,7 +48,7 @@ h3{text-align:center;}
 }
 
 .menu-panel {
-	background: #45818e;
+	background: #F1103A;
 	width: 350px;
 	height: 98%;
 	position: fixed;
@@ -82,8 +82,8 @@ h3{text-align:center;}
 	line-height: 3;
 	padding: 0 15px;
 	cursor: pointer;
-	background: #f1103a;
-	border-bottom: 1px solid #45818e;
+	background: #F1103A;
+	border-bottom: 1px solid #F1103A;
 }
 
 .menu-toc li a:hover,
@@ -227,8 +227,8 @@ h3{text-align:center;}
 }
 
 .content p {
-	font-size: 1.2em;
-	line-height: 1.6;
+	font-size: 16px;
+	line-height: 1.15;
 	font-weight: 300;
 	padding: 5px 2%;
 	text-align: justify;
